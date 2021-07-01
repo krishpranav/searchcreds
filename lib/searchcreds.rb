@@ -4,5 +4,5 @@
 require "optparse"
 require "ostruct"
 require "json"
-require "searchpass/version"
-require "searchpass/cli"
+require "searchcreds/version"
+require "searchcreds/cli"
